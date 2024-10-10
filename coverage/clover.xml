@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1728562727800" clover="3.2.0">
-  <project timestamp="1728562727800" name="All files">
-    <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="18" coveredelements="18" complexity="0" loc="14" ncloc="14" packages="2" files="2" classes="2"/>
+<coverage generated="1728564753891" clover="3.2.0">
+  <project timestamp="1728564753892" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6" elements="27" coveredelements="27" complexity="0" loc="19" ncloc="19" packages="3" files="3" classes="3"/>
+    <package name="calculator">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <file name="calculator.js" path="/home/skyaus/theOdinProject/testing-practice/src/calculator/calculator.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="capitalize">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="capitalize.js" path="/home/skyaus/theOdinProject/testing-practice/src/capitalize/capitalize.js">
