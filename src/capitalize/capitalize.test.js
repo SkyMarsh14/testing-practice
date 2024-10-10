@@ -13,4 +13,4 @@ it('test3',()=>{
 });
 it('test4',()=>{
     expect(capitalize('GOOD')).toBe('GOOD');
-})
+});
