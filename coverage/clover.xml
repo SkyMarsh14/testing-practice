@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1728564753891" clover="3.2.0">
-  <project timestamp="1728564753892" name="All files">
-    <metrics statements="19" coveredstatements="19" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="6" elements="27" coveredelements="27" complexity="0" loc="19" ncloc="19" packages="3" files="3" classes="3"/>
+<coverage generated="1728655273233" clover="3.2.0">
+  <project timestamp="1728655273233" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="10" coveredconditionals="10" methods="8" coveredmethods="8" elements="49" coveredelements="49" complexity="0" loc="31" ncloc="31" packages="4" files="4" classes="4"/>
+    <package name="caesarCipher">
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+      <file name="caesarCipher.js" path="/home/skyaus/theOdinProject/testing-practice/src/caesarCipher/caesarCipher.js">
+        <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
+        <line num="3" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="5" type="stmt"/>
+        <line num="9" count="24" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="22" type="stmt"/>
+        <line num="12" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="16" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="16" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+        <line num="22" count="5" type="stmt"/>
+      </file>
+    </package>
     <package name="calculator">
       <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
       <file name="calculator.js" path="/home/skyaus/theOdinProject/testing-practice/src/calculator/calculator.js">
